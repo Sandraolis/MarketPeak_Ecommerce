@@ -6,17 +6,17 @@ You have been assigned to develop an e-commerce website for a new online marketp
 
 ### 1.1 Initialize Git Repository
 
-![](./Images/1.%20git%20init.png)
+![](./images/1.%20git%20init.png)
 
 ### 1.2 Obtanin and Prepare the E-commerce website Template
 
 Download and prepare a website Template: Extract the downloaded template into your project directory, **MarketPeak_Ecommerce**
 
-![](./Images/2.%20downloaded-template.png)
+![](./images/2.%20downloaded-template.png)
 
 ### 1.3 Stage and Commit the Template to github (create user and email on git)
 
-![](./Images/3.%20git--global.png)
+![](./images/3.%20git--global.png)
 
 ### 1.4 Push the Code to Github Repository
 
@@ -33,7 +33,7 @@ git push -u origin main
 
 - create a `MarketPeak Ecommerce` repo on github and then pushed code and commit from my local to my remote repo.
 
-![](./Images/5.%20code-pushed-togithub.png)
+![](./images/4.%20remote-repo.png)
 
 # 2. AWS Deployment
 
